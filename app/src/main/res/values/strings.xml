@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Badgujar</string>
+    <string name="gallery">Gallery</string>
+    <string name="import_name">Import</string>
+    <string name="slideshow">Slideshow</string>
+    <string name="tools">Tools</string>
+
+    <!-- Drawer Header Title-->
+    <string name="badgujar_samaj">Badgujar Samaj</string>
+</resources>
